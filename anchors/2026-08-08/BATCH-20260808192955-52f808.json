@@ -1,0 +1,12 @@
+{
+  "title": "青桔洗车 - 电子签署存证锚定",
+  "batchId": "BATCH-20260808192955-52f808",
+  "merkleRoot": "de74d024d4a07a5aea11fbf387e0ba79653eab9180686d927f4e25bb3a5fad20",
+  "recordCount": 2,
+  "batchTimestamp": "2026-08-08T19:29:55.419Z",
+  "anchors": [],
+  "verification": {
+    "method": "Merkle Tree + GitHub Commit Anchoring",
+    "description": "任何人可通过本文件中的 merkleRoot 与 GitHub 仓库历史 commit 验证存证记录不可篡改"
+  }
+}
